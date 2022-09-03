@@ -1,7 +1,6 @@
-Create E2C account through amazon web services:
+Check the verison of OS:
 uname -a
 docker
-
 apt-get update
 
 follow below link to install docker:
